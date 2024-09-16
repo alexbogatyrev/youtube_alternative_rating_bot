@@ -1,4 +1,12 @@
 # .gitignore
+.idea/
+venv/
+env/
 .env
 bot.log
+*.log
 model_cache
+*.tmp
+__pycache__/
+*.py[cod]
+*$py.class
