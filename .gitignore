@@ -1,0 +1,4 @@
+# .gitignore
+.env
+bot.log
+model_cache
